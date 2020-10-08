@@ -1,4 +1,4 @@
-module github.com/usmon1983/wallet
+module github.com/usmon1983/wallet_1
 
 go 1.15
 

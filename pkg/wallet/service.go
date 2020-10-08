@@ -1,7 +1,7 @@
 package wallet
 
 import (
-	"github.com/usmon1983/wallet/pkg/types"
+	"github.com/usmon1983/wallet_1/pkg/types"
 	"errors"
 	"github.com/google/uuid"
 )

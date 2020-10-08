@@ -2,7 +2,7 @@ package wallet
 
 import (
 	"testing"
-	"github.com/usmon1983/wallet/pkg/types"
+	"github.com/usmon1983/wallet_1/pkg/types"
 )
 
 func TestService_RegisterAccount_success(t *testing.T) {
